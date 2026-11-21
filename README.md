@@ -239,7 +239,7 @@ Database `latihan1` berhasil dibuat dan muncul pada daftar database di phpMyAdmi
 
 **Screenshot Hasil:**
 
-![01](Screenshot/01.png)
+![screenshot 01](screenshot/01.png)
 
 ### 2. Latihan 2 – Membuat Tabel Data Barang
 
@@ -263,8 +263,8 @@ Ketiga data barang berhasil dimasukkan ke dalam database. Data tersebut tersimpa
 
 **Screenshot Hasil:**
 
-![03](Screenshot/03.png)
-![04](Screenshot/04.png)
+![03](screenshot/03.png)
+![04](screenshot/04.png)
 
 ### 4. Latihan 4 – Membuat Koneksi Database
 
