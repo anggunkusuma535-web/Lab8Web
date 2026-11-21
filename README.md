@@ -276,7 +276,7 @@ File `koneksi.php` berhasil dibuat dan digunakan sebagai penghubung antara aplik
 
 **Screenshot Hasil:**
 
-![05](Screenshot/05.png)
+![05](screenshot/05.png)
 
 ### 5. Latihan 5 – Menampilkan Data Barang (Read)
 
@@ -288,7 +288,7 @@ Halaman utama berhasil menampilkan daftar barang yang sebelumnya telah dimasukka
 
 **Screenshot Hasil:**
 
-![06](Screenshot/06.png)
+![06](screenshot/06.png)
 
 ### 6. Latihan 6 – Menambahkan Data Barang (Create)
 
@@ -300,7 +300,7 @@ Formulir tambah barang berhasil ditampilkan melalui browser. Seluruh kolom input
 
 **Screenshot Hasil:**
 
-![07](Screenshot/07.png)
+![07](screenshot/07.png)
 
 ### 7. Latihan 7 – Hasil Penambahan Data Barang
 
@@ -312,7 +312,7 @@ Data barang yang baru dimasukkan berhasil tersimpan di dalam database dan ditamp
 
 **Screenshot Hasil:**
 
-![08](Screenshot/08.png)
+![08](screenshot/08.png)
 
 ### 8. Latihan 8 – Mengubah Data Barang (Update)
 
@@ -324,7 +324,7 @@ Formulir ubah barang berhasil ditampilkan dengan informasi sesuai data barang ya
 
 **Screenshot Hasil:**
 
-![09](Screenshot/09.1.png)
+![09](screenshot/09.1.png)
 
 ### 9. Latihan 9 – Hasil Perubahan Data Barang
 
@@ -336,7 +336,7 @@ Perubahan data barang berhasil disimpan ke dalam database. Informasi pada halama
 
 **Screenshot Hasil:**
 
-![09.2](Screenshot/09.2.png)
+![09.2](screenshot/09.2.png)
 
 ### 10. Latihan 10 – Menghapus Data Barang (Delete)
 
@@ -348,7 +348,7 @@ Fungsi penghapusan data berhasil diterapkan melalui halaman utama. Program dapat
 
 **Screenshot Hasil:**
 
-![10.1](Screenshot/10.1.png)
+![10.1](screenshot/10.1.png)
 
 ### 11. Latihan 11 – Hasil Penghapusan Data Barang
 
@@ -360,14 +360,13 @@ Data barang berhasil dihapus dari database dan tidak muncul lagi pada tabel hala
 
 **Screenshot Hasil:**
 
-![10.2](Screenshot/10.2.png)
+![10.2](screenshot/10.2.png)
 ## J. Kesimpulan
 
-Berdasarkan Praktikum 8 tentang PHP dan Database MySQL, dapat disimpulkan bahwa database memiliki peran penting dalam penyimpanan dan pengelolaan data pada aplikasi web. Melalui praktikum ini, mahasiswa mempelajari cara membuat database, membuat tabel, memasukkan data, serta menghubungkan PHP dengan MySQL menggunakan MySQLi.
+Berdasarkan pelaksanaan Praktikum 8 mengenai PHP dan Database MySQL, dapat disimpulkan bahwa database memiliki peran penting dalam proses penyimpanan dan pengelolaan data pada sebuah aplikasi web. Melalui praktikum ini, mahasiswa mempelajari cara membuat database, membuat tabel, menambahkan data, serta menghubungkan PHP dengan MySQL menggunakan fungsi MySQLi.
 
-Selain itu, praktikum ini memberikan pemahaman mengenai penerapan konsep CRUD yang terdiri dari Create, Read, Update, dan Delete. Keempat fungsi tersebut diterapkan dalam program pengelolaan data barang menggunakan file PHP yang berbeda.
+Selain itu, praktikum ini memberikan pemahaman mengenai penerapan konsep CRUD (Create, Read, Update, Delete) dalam pengelolaan data barang. Fungsi Create digunakan untuk menambahkan data baru, Read untuk menampilkan data yang tersimpan, Update untuk memperbarui informasi, dan Delete untuk menghapus data yang tidak diperlukan.
 
-Dengan menyelesaikan praktikum ini, mahasiswa diharapkan mampu membuat program CRUD sederhana menggunakan PHP dan database MySQL.
-=======
-# Lab8Web
->>>>>>> 405bb9aea92bdb698002a91f01c3c33d04c6eedf
+Melalui pembuatan file koneksi.php, index.php, tambah.php, ubah.php, dan hapus.php, setiap proses pengelolaan data dapat dilakukan melalui halaman web yang terhubung dengan database. Penggunaan XAMPP sebagai server lokal juga membantu dalam menjalankan dan menguji program secara langsung melalui browser.
+
+Dengan selesainya praktikum ini, mahasiswa diharapkan mampu memahami hubungan antara PHP dan database MySQL serta memiliki keterampilan dasar dalam membangun aplikasi web sederhana yang dapat melakukan proses pengelolaan data secara terstruktur dan sistematis.
