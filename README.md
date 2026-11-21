@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PRAKTIKUM 8
 # PHP DAN DATABASE MYSQL
 
@@ -367,3 +368,6 @@ Berdasarkan Praktikum 8 tentang PHP dan Database MySQL, dapat disimpulkan bahwa 
 Selain itu, praktikum ini memberikan pemahaman mengenai penerapan konsep CRUD yang terdiri dari Create, Read, Update, dan Delete. Keempat fungsi tersebut diterapkan dalam program pengelolaan data barang menggunakan file PHP yang berbeda.
 
 Dengan menyelesaikan praktikum ini, mahasiswa diharapkan mampu membuat program CRUD sederhana menggunakan PHP dan database MySQL.
+=======
+# Lab8Web
+>>>>>>> 405bb9aea92bdb698002a91f01c3c33d04c6eedf
