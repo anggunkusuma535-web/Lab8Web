@@ -251,7 +251,7 @@ Tabel `data_barang` berhasil dibuat dengan struktur kolom sesuai instruksi modul
 
 **Screenshot Hasil:**
 
-![02](Screenshot/02.png)
+![screenshot 02](screenshot/02.png)
 
 ### 3. Latihan 3 – Menambahkan Data Awal
 
