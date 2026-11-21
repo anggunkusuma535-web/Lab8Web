@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PRAKTIKUM 8
 # PHP DAN DATABASE MYSQL
 
