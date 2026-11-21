@@ -225,7 +225,7 @@ Berdasarkan latihan yang telah dikerjakan, program pengelolaan data barang memil
 
 Dengan demikian, program CRUD sederhana menggunakan PHP dan database MySQL dapat dijalankan melalui web server XAMPP.
 
-#### I. DOKUMENTASI SCREENSHOT HASIL PRAKTIKUM
+## I. DOKUMENTASI SCREENSHOT HASIL PRAKTIKUM
 
 Dokumentasi berikut merupakan hasil pengerjaan Praktikum 8 mengenai PHP dan Database MySQL. Setiap screenshot menunjukkan proses pengerjaan mulai dari pembuatan database, pembuatan tabel, pengisian data barang, hingga penerapan fungsi CRUD (Create, Read, Update, Delete) menggunakan PHP. Seluruh program dijalankan melalui server lokal XAMPP dan ditampilkan menggunakan browser.
 
